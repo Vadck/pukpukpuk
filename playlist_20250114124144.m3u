@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="",TV Rain
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="",TVRain
+http://0.0.0.0:8000/output.m3u8
 #EXTINF:-1 tvg-id="Tv Rain" group-title="",Tv Rain
 http://zxf450c.glddns.com:55555/TV%20Rain%20HD
